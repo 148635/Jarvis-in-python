@@ -1,7 +1,7 @@
 # Jarvis-in-python
 Creating an AI assistant called Jarvis in python using  different packages.
 Hi friends.This is my first project in github.
-My project is about creating an AI Assistant like Jarvis which is very famous from our iron man.
+My project is about creating an AI Assistant like Jarvis which is very famous from our Iron Man(Tont Stark).
 I Wrote my code by looking into different resources and references.
 My jarvis basically do the following:
 1.listen and convert speech to text
